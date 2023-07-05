@@ -1,0 +1,52 @@
+############Operações Matemáticas################
+(+) = soma
+(-) = subtração
+(*) = multiplicação
+(**) = exponenciação
+(/) = divisão
+(//) = divisão inteira
+(%) = módulo
+
+(=) = atribuição
+(+=) = atribuir soma
+(-=) = atribuir subtração
+(*=) = atribuir multiplicação
+(/=) = atribuir divisão
+(%=) = atribuir módulo
+
+(>) = verifica se um valor é maior que outro
+(<) = verifica se um valor é menor que outro
+(==) = verifica se um valor é igual ao outro
+(!=) = verifica se um valor é diferente do outro
+(>=) = verifica se um valor é igual ou maior ao outro
+(<=) = verifica se um valor é igual ou menor ao outro
+
+and = retorna True se todas as condições forem verdadeiras
+or = retorna True se pelo menos uma condição for verdadeira
+not = inverte o resultado de uma operação booleana
+
+is = retorna True se as variaveis comparadas forem iguais
+is not = retorna True se as variaveis comparadas forem diferentes
+
+in = retorna True caso o valor seja encontrado na sequencia
+not in = retorna True caso o valor não seja encontrado na sequencia
+############Funções Simples######################
+exit() = interrompe o código
+print() = Mostrar mensagem
+input() = Usúario declara valor
+int() = Transformar um valor em Integer
+float() = Transformar um valor em Float
+str() = Transformar um valor em String
+#############Funções Condicionais################
+if: = inicia um comando caso as condições sejam cumpridas
+elif: = se as condições do if não forem cumpridas, inicia um comando caso as condições sejam cumpridas
+else: = se as condições do if e do elif não forem cumpridas, inicia um comando
+#############Funções de Repetição################
+for <nome variável> in range (<valor inicial>, <valor limite>, <passo>): = cria uma estrutura de repetição com fim determinado
+while (<valor variável> == <valor variável>): = cria uma estrutura de repetição com uma condição de parada
+while (True): = cria uma estrutura de repetição sem condição de parada
+
+break = interrompe uma estrutura de repetição
+#############Funções Tuplas######################
+<nome variavel> = (<valor variavel>, <valor variavel>, <valor variavel>)
+#############Funções Listas######################
